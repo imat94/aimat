@@ -1,0 +1,1 @@
+pyuic5 HCMK.ui -o HCMK.py

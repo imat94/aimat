@@ -1,0 +1,1 @@
+pyuic5 HCMKgon.ui -o HCMKgon.py
